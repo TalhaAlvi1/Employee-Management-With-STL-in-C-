@@ -17,7 +17,6 @@ public:
     Employee(int id, string name, string designation, double salary)
         : id(id), name(name), designation(designation), salary(salary) {}
 
-    // Getters
     int getId() const { return id; }
     string getName() const { return name; }
     string getDesignation() const { return designation; }
