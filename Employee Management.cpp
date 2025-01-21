@@ -22,7 +22,6 @@ public:
     string getDesignation() const { return designation; }
     double getSalary() const { return salary; }
 
-    // Setters
     void setName(string newName) { name = newName; }
     void setDesignation(string newDesig) { designation = newDesig; }
     void setSalary(double newSalary) { salary = newSalary; }
