@@ -111,7 +111,3 @@ For any questions or suggestions, please feel free to reach out:
 ---
 
 Enjoy managing your employees with this simple yet powerful system! 🚀
-
----
-
-Now the bold text will render correctly on GitHub! Let me know if you need further assistance. 😊
